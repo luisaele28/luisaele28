@@ -3,7 +3,7 @@
 
 ***Developer front end junior profesional con fortaleza en HTML, CSS, JS, GIT, GITHUB, NODE JS, REACT gran capacidad de adaptación, orientada a resultados, competente en habilidades blandas, proactiva, alto nivel de compromiso y responsabilidades asignadas.***
 
-Languages and Tools:
+##Languages and Tools:
 
 ![Captura de pantalla (7)](https://user-images.githubusercontent.com/104478186/197359781-a0f58ad8-0a3b-47b5-b51e-db5e8398f95c.png) 
 ![Captura de pantalla (8)](https://user-images.githubusercontent.com/104478186/197359721-2f485b67-566e-40d5-b3b7-72e8dc126fa5.png)
