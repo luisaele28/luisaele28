@@ -1,6 +1,6 @@
 ### Hi I'am Luisa Carrillo 👋
 
-![image](https://user-images.githubusercontent.com/104478186/197360035-8ef4a77a-5832-4bcd-a41a-d787857b9aa4.png)
+![Captura de pantalla (2)](https://user-images.githubusercontent.com/104478186/197361944-082cb59e-42a7-413c-906f-0f0edf029168.png)
 
 ***Developer front end junior profesional con fortaleza en HTML, CSS, JS, GIT, GITHUB, NODE JS, FIRESBASE y REACT gran capacidad de adaptación, orientada a resultados, competente en habilidades blandas, proactiva, alto nivel de compromiso y responsabilidades asignadas.***
 
