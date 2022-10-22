@@ -4,7 +4,7 @@
 ***Developer front end junior profesional con fortaleza en HTML, CSS, JS, GIT, GITHUB, NODE JS, REACT gran capacidad de adaptación, orientada a resultados, competente en habilidades blandas, proactiva, alto nivel de compromiso y responsabilidades asignadas.***
 
 Languages and Tools:
-javascript html5 css3 git figma firebase nodejs
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg html5 css3 git figma firebase nodejs
 
 
 
