@@ -17,8 +17,7 @@
 
 📫 How to reach me email: luisaelena.902@gmail.com
 
-🔗 linkedin.com/in/luisa-elena-carrillo-buyon-5aa178243
-
+🔗 Linkedin: (https://www.linkedin.com/in/luisa-elena-carrillo-buyon-5aa178243/)
 
 
 
