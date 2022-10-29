@@ -2,7 +2,7 @@
 
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/104478186/197361944-082cb59e-42a7-413c-906f-0f0edf029168.png)
 
-✨Developer front end junior profesional con fortaleza en HTML, CSS, JS, GIT, GITHUB, NODE JS, FIRESBASE y REACT gran capacidad de adaptación, orientada a resultados, competente en habilidades blandas, proactiva, alto nivel de compromiso y responsabilidades asignadas.:sparkles:
+✨Professional junior front end developer with strength in HTML, CSS, JS, GIT, GITHUB, NODE JS, FIRESBASE and REACT great adaptability, results oriented, competent in soft skills, proactive, high level of commitment and assigned responsibilities.:sparkles:
 
 ***:zap:Languages and Tools***:
 
@@ -14,6 +14,9 @@
 ![Captura de pantalla (4)](https://user-images.githubusercontent.com/104478186/197359813-be35f2e2-ed8d-40af-9416-5926bc314bc4.png)
 ![Captura de pantalla (3)](https://user-images.githubusercontent.com/104478186/197359984-d0a8b247-2aea-4124-ac94-77552354b501.png)
 
+Contacto:
+📫 email: luisaelena.902@gmail.com
+🔗 linkedin: linkedin.com/in/luisa-elena-carrillo-buyon-5aa178243
 
 
 
