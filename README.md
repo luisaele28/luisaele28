@@ -14,11 +14,10 @@
 ![Captura de pantalla (4)](https://user-images.githubusercontent.com/104478186/197359813-be35f2e2-ed8d-40af-9416-5926bc314bc4.png)
 ![Captura de pantalla (3)](https://user-images.githubusercontent.com/104478186/197359984-d0a8b247-2aea-4124-ac94-77552354b501.png)
 
-Contacto:
 
-📫 email: luisaelena.902@gmail.com
+📫 How to reach me email: luisaelena.902@gmail.com
 
-🔗 linkedin: linkedin.com/in/luisa-elena-carrillo-buyon-5aa178243
+🔗 linkedin:[https:](https://www.linkedin.com/in/m-luisa-carrillo)
 
 
 
