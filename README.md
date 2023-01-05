@@ -2,7 +2,13 @@
 
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/104478186/197361944-082cb59e-42a7-413c-906f-0f0edf029168.png)
 
-✨Professional junior front end developer with strength in HTML, CSS, JS, GIT, GITHUB, NODE JS, FIRESBASE and REACT great adaptability, results oriented, competent in soft skills, proactive, high level of commitment and assigned responsibilities.:sparkles:
+✨I'm a proactive person,
+organized and responsible
+good interpersonal relationships.
+I always have the best disposition
+to carry out my work.
+I am looking for a challenging position where
+I can continue learning.s.:sparkles:
 
 ***:zap:Languages and Tools***:
 
